@@ -1,6 +1,6 @@
 [package]
 name = "cpuburn"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "cpuburn is a tool to push your CPU to 100%"
 authors = ["Erik Hollensbe <git@hollensbe.org>"]
